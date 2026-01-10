@@ -15,6 +15,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 
 - **[Windows Vulnerability Management Lab | Tenable Nessus](https://github.com/QuincyJr-Engineer/Win-11-Vulnerability-Scanning/tree/main)**
 - **[Linux Vulnerability Management Lab | Tenable Nessus](https://github.com/QuincyJr-Engineer/Linux-Vulnerability-Scanning)**
+- **[DISA STIG Windows 11 Lab | Tenable Nessus](https://github.com/QuincyJr-SecEng/Windows-STIG-Testing)**
 <!-- <h2>🐍 Python Projects:</h2>
 
 
