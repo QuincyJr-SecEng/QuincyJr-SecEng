@@ -1,7 +1,27 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&color=89CFF0&center=true&vCenter=true&width=500&height=70&duration=2800&lines=Hey+There!+👋;+My+Name+is+Quincy+Jones+Jr!;" />
+</h1>
+
+<img width="1463" height="649" alt="image" src="https://github.com/user-attachments/assets/2caeaa14-88f5-48e1-a181-468ec5cf6c0a" />
+
+
+I’m a Security Engineer and Penetration Tester with enterprise experience securing Oracle Cloud Infrastructure (OCI) and multi-cloud environments **(AWS, Azure, GCP)**. At Oracle, I led Security Assessment Reviews (SARs), performed advanced vulnerability and red/black-box testing, and worked closely with engineering teams to remediate critical findings before production deployment.
+
+My background includes SOC operations and shift leadership, where I monitored and responded to threats using Splunk, LogRhythm, and Microsoft Defender, conducted malware and forensic analysis, and tracked attacker behavior using the MITRE ATT&CK framework. I’ve recreated real-world attack scenarios to validate remediation, helping reduce repeat incidents and improve detection quality.
+
+I also bring strong experience in security automation, CI/CD security, and container security, using Python, Bash, Chef, Docker, and Kubernetes, along with hands-on exposure to PCI-regulated healthcare environments. I focus on practical, engineer-driven security that improves resilience across cloud, SOC, and production systems.
+
+<h2>👨‍💻CyberSecurity Projects:</h2>
+
+- **[Windows Vulnerability Management Lab | Tenable Nessus](https://github.com/QuincyJr-Engineer/Win-11-Vulnerability-Scanning/tree/main)**
+- **[Linux Vulnerability Management Lab | Tenable Nessus](https://github.com/QuincyJr-Engineer/Linux-Vulnerability-Scanning)**
+<!-- <h2>🐍 Python Projects:</h2>
+
+
+
 
 <!--
-**QuincyJr-SecEng/QuincyJr-SecEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QuincyJr-Engineer/QuincyJr-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
