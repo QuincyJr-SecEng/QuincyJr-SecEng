@@ -21,7 +21,8 @@ I also bring strong experience in security automation, CI/CD security, and conta
 - **[Windows 11 Vulnerability Remediation Lab | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Vulnerability-Remediation)**
 
 <h2>🤏Mini Projects:</h2>
--****
+
+- **[Asset Discovery Scan | Tenable Nessus](https://github.com/QuincyJr-SecEng/Mini-Discovery-Scan)**
 
 
 
