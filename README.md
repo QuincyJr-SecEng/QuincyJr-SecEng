@@ -23,7 +23,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 <h2>🤏Mini Projects:</h2>
 
 - **[Asset Discovery Scan | Tenable Nessus](https://github.com/QuincyJr-SecEng/Mini-Discovery-Scan)**
-- **[Vulnerability Management Policies and Buy-In | Tenable Nessus](https://github.com/QuincyJr-SecEng/Mini-Discovery-Scan)**
+- **[Vulnerability Management Policies and Buy-In | Theory](https://github.com/QuincyJr-SecEng/Mini-Discovery-Scan)**
 
 
 
