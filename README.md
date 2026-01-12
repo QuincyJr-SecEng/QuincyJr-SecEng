@@ -19,8 +19,8 @@ I also bring strong experience in security automation, CI/CD security, and conta
 - **[Windows 11 Agent-Based Vulnerability Scanning Lab | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Agent-Based-Scan/tree/main)**
 - **[Linux Ubuntu Agent-Based Vulnerability Scanning Lab | Tenable Nessus](https://github.com/QuincyJr-SecEng/Linux-Agent-Based-Scanning)**
 - **[Windows 11 Vulnerability Remediation Lab | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Vulnerability-Remediation)**
-<!-- <h2>🐍 Python Projects:</h2>
 
+<h2>👨‍💻Mini Projects:</h2>
 
 
 
