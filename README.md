@@ -23,12 +23,13 @@ I also bring strong experience in security automation, CI/CD security, and conta
 
 <h2>👨‍💻Scripting Projects:</h2>
 
-- **[Windows 11 Programmatic Remediation | Powershell Scripting | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Programmatically-Remediating)**
+- **[Windows 11 Scripting Remediation | Powershell Scripting | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Programmatically-Remediating)**
+- **[Linux Scripting Remediation Lab | Bash | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Vulnerability-Remediation)**
 
 <h2>🤏Mini Projects:</h2>
 
 - **[Asset Discovery Scan | Tenable Nessus](https://github.com/QuincyJr-SecEng/Mini-Discovery-Scan)**
-- **[Vulnerability Management Policies and Buy-In | Theory](https://github.com/QuincyJr-SecEng/Mini-Discovery-Scan)**
+- **[Vulnerability Management Policies and Buy-In | Theory](https://github.com/QuincyJr-SecEng/Linux-Programmatic-Remediation)**
 
 
 
