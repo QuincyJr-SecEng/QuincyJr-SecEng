@@ -31,6 +31,10 @@ I also bring strong experience in security automation, CI/CD security, and conta
 - **[Asset Discovery Scan | Tenable Nessus](https://github.com/QuincyJr-SecEng/Mini-Discovery-Scan)**
 - **[Vulnerability Management Policies and Buy-In | Theory](https://github.com/QuincyJr-SecEng/Linux-Programmatic-Remediation)**
 
+<h2>🔐Enterprise Enviornment Projects:</h2>
+
+- **[Enterprise Vulnerability Remediation & Hardening Lab (End-to-End) | Windows Server | Tenable Nessus](https://github.com/QuincyJr-SecEng/Server-Vulnerability-Management-Project-Lab)**
+
 
 
 <!--
