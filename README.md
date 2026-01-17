@@ -33,7 +33,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 
 <h2>🔐Enterprise Enviornment Projects:</h2>
 
-- **[Enterprise Vulnerability Remediation & Hardening Lab (End-to-End) | Windows Server | Tenable Nessus](https://github.com/QuincyJr-SecEng/Server-Vulnerability-Management-Project-Lab)**
+- **[Enterprise Vulnerability Management Program Implementation | Windows Server | Tenable Nessus](https://github.com/QuincyJr-SecEng/Server-Vulnerability-Management-Project-Lab)**
 
 
 
