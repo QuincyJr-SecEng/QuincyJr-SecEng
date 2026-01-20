@@ -4,6 +4,16 @@
 
 <img width="1487" height="667" alt="image" src="https://github.com/user-attachments/assets/79382cd8-d898-40ab-ac90-23529854aa5b" />
 
+<!-- Profile View Counter -->
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=QuincyJr-SecEng&label=Profile%20Views&color=0e75b6&style=flat-square"
+    alt="Profile Views"
+  />
+</div>
+<br/>
+
+
 
 I’m a Security Engineer and Penetration Tester with enterprise experience securing Oracle Cloud Infrastructure (OCI) and multi-cloud environments **(AWS, Azure, GCP)**. At Oracle, I led Security Assessment Reviews (SARs), performed advanced vulnerability and red/black-box testing, and worked closely with engineering teams to remediate critical findings before production deployment.
 
