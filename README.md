@@ -21,7 +21,7 @@ My background includes SOC operations and shift leadership, where I monitored an
 
 I also bring strong experience in security automation, CI/CD security, and container security, using Python, Bash, Chef, Docker, and Kubernetes, along with hands-on exposure to PCI-regulated healthcare environments. I focus on practical, engineer-driven security that improves resilience across cloud, SOC, and production systems.
 
-<h2>👨‍💻CyberSecurity Projects:</h2>
+<h2>👨‍💻Vulnerability Management Projects:</h2>
 
 - **[Windows Vulnerability Management Lab | Tenable Nessus](https://github.com/QuincyJr-Engineer/Win-11-Vulnerability-Scanning/tree/main)**
 - **[Linux Vulnerability Management Lab | Tenable Nessus](https://github.com/QuincyJr-Engineer/Linux-Vulnerability-Scanning)**
@@ -31,7 +31,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 - **[Windows 11 Vulnerability Remediation Lab | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Vulnerability-Remediation)**
 - **[Linux Remediation Lab | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Vulnerability-Remediation)**
 
-<h2>👨‍💻Scripting Projects:</h2>
+<h3>📜Vulnerability Management Scripting Projects:</h3>
 
 - **[Windows 11 Scripting Remediation | Powershell Scripting | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Programmatically-Remediating)**
 - **[Linux Scripting Remediation Lab | Bash | Tenable Nessus](https://github.com/QuincyJr-SecEng/Win-11-Vulnerability-Remediation)**
