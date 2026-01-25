@@ -24,6 +24,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 <h2>👨‍💻SOC Projects:</h2>
 
 - **[Azure Attack Maps | MS Sentinel Workbooks | KQL Customization](https://github.com/QuincyJr-SecEng/Attack-Maps-With-KQL)**
+- **[Enterprise EDR Lab | Microsoft Defender | Threat Containment & Investigation](https://github.com/QuincyJr-SecEng/Onboarding-VMs-To-EDR)**
 
 <h2>👨‍💻Vulnerability Management Projects:</h2>
 
