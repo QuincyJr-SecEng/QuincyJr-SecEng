@@ -23,7 +23,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 
 <h2>👨‍💻SOC Projects:</h2>
 
-- **[Azure Attack Maps | MS Sentinel Workbooks | KQL Customization](https://github.com/QuincyJr-SecEng/Exploring-Azure-KQL-Log-Analysis)**
+- **[Azure Attack Maps | MS Sentinel Workbooks | KQL Customization](https://github.com/QuincyJr-SecEng/Attack-Maps-With-KQL)**
 
 <h2>👨‍💻Vulnerability Management Projects:</h2>
 
