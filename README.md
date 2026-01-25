@@ -21,6 +21,10 @@ My background includes SOC operations and shift leadership, where I monitored an
 
 I also bring strong experience in security automation, CI/CD security, and container security, using Python, Bash, Chef, Docker, and Kubernetes, along with hands-on exposure to PCI-regulated healthcare environments. I focus on practical, engineer-driven security that improves resilience across cloud, SOC, and production systems.
 
+<h2>👨‍💻SOC Projects:</h2>
+
+- **[Azure Attack Maps | MS Sentinel Workbooks | KQL Customization](https://github.com/QuincyJr-SecEng/Exploring-Azure-KQL-Log-Analysis)**
+
 <h2>👨‍💻Vulnerability Management Projects:</h2>
 
 - **[Windows Vulnerability Management Lab | Tenable Nessus](https://github.com/QuincyJr-Engineer/Win-11-Vulnerability-Scanning/tree/main)**
@@ -47,17 +51,4 @@ I also bring strong experience in security automation, CI/CD security, and conta
 
 
 
-<!--
-**QuincyJr-Engineer/QuincyJr-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
