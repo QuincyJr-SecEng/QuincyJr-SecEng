@@ -21,6 +21,10 @@ My background includes SOC operations and shift leadership, where I monitored an
 
 I also bring strong experience in security automation, CI/CD security, and container security, using Python, Bash, Chef, Docker, and Kubernetes, along with hands-on exposure to PCI-regulated healthcare environments. I focus on practical, engineer-driven security that improves resilience across cloud, SOC, and production systems.
 
+<h2>👨‍💻Threat Hunting Projects:</h2>
+
+- **[Cloud Threat Hunting | Microsoft Defender | Brute Force & Public Exposure Detection](https://github.com/QuincyJr-SecEng/Devices-Exposed-To-Internet)**
+
 <h2>👨‍💻SOC Projects:</h2>
 
 - **[Azure Attack Maps | MS Sentinel Workbooks | KQL Customization](https://github.com/QuincyJr-SecEng/Attack-Maps-With-KQL)**
