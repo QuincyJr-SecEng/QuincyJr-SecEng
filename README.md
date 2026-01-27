@@ -15,7 +15,7 @@
 
 
 
-I’m a Security Engineer and Penetration Tester with enterprise experience securing Oracle Cloud Infrastructure (OCI) and multi-cloud environments **(AWS, Azure, GCP)**. At Oracle, I led Security Assessment Reviews (SARs), performed advanced vulnerability and red/black-box testing, and worked closely with engineering teams to remediate critical findings before production deployment.
+I’m a Security Engineer and Penetration Tester with enterprise experience securing Oracle Cloud Infrastructure (OCI) and multi-cloud environments **(AWS, Azure, GCP)**. At Oracle, I led Security Assessment Reviews (SARs), performed advanced vulnerability and white/black-box testing, and worked closely with engineering teams to remediate critical findings before production deployment.
 
 My background includes SOC operations and shift leadership, where I monitored and responded to threats using Splunk, LogRhythm, and Microsoft Defender, conducted malware and forensic analysis, and tracked attacker behavior using the MITRE ATT&CK framework. I’ve recreated real-world attack scenarios to validate remediation, helping reduce repeat incidents and improve detection quality.
 
