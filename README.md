@@ -25,6 +25,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 
 - **[Cloud Threat Hunting | Microsoft Defender | Brute Force & Public Exposure Detection](https://github.com/QuincyJr-SecEng/Devices-Exposed-To-Internet)**
 - **[Internal Lateral Movement | Network Slowdown Hunt | MITRE ATT&CK | Microsoft Defender](https://github.com/QuincyJr-SecEng/Network-Slowdown-Investigation)**
+- **[Insider Threat Hunt | Data Exfiltration | Microsoft Defender for Endpoint](https://github.com/QuincyJr-SecEng/Data-Exfiltration-Threat-Hunt)**
 
 <h2>👨‍💻SOC Projects:</h2>
 
