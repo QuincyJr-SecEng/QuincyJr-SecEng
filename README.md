@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&color=89CFF0&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+There!+👋;+My+Name+is+Quincy+Jones+Jr!;" />
 </h1>
 
-<img width="1487" height="667" alt="image" src="https://github.com/user-attachments/assets/79382cd8-d898-40ab-ac90-23529854aa5b" />
+<img width="1493" height="675" alt="image" src="https://github.com/user-attachments/assets/5879683f-da79-46ca-9307-4cba882aee4a" />
 
 <!-- Profile View Counter -->
 <div align="center">
