@@ -35,6 +35,7 @@ I also bring strong experience in security automation, CI/CD security, and conta
 - **[Cloud VM Incident Response | Microsoft Defender | Custom Detections](https://github.com/QuincyJr-SecEng/Remote-Code-Exec-Detection)**
 - **[Brute Force Detection & Incident Response | Microsoft Sentinel + MDE](https://github.com/QuincyJr-SecEng/BruteForce-Detection-Response)**
 - **[Powershell Suspicious Web Request Investigation | Microsoft Sentinel + MDE](https://github.com/QuincyJr-SecEng/PS-Suspicious-Web-Request)**
+- **[Impossible Time Travel | Microsoft Sentinel + MDE](https://github.com/QuincyJr-SecEng/Win-Impossible-Travel)**
 
 <h2>👨‍💻Vulnerability Management Projects:</h2>
 
