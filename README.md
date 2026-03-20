@@ -64,7 +64,9 @@ I also bring strong experience in security automation, CI/CD security, and conta
 <h2>🔐Enterprise Enviornment Projects:</h2>
 
 - **[Enterprise Vulnerability Management Program Implementation | Windows Server | Tenable Nessus](https://github.com/QuincyJr-SecEng/Server-Vulnerability-Management-Project-Lab)**
+- **[Enterprise Threat Hunting Project | Windows Server | Tenable Nessus](https://github.com/QuincyJr-SecEng/Threat-Hunt-Project-1)**
 
 
+https://github.com/QuincyJr-SecEng/Threat-Hunt-Project-1
 
 
